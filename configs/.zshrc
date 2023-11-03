@@ -27,3 +27,5 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 alias hi="echo 'hello'"
+alias quit="shutdown now"
+alias pyformat="autopep8 --in-place --aggressive --aggressive"
