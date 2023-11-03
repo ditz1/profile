@@ -12,3 +12,4 @@ set t_Co=256
 " Always show the command as it is being typed.
 set showcmd
 
+packloadall
